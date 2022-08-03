@@ -1,0 +1,2 @@
+module PracticeProgram_1 {
+}
